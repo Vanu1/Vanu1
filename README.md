@@ -1,2 +1,2 @@
 # Vanu1.github.io
-my web page
+this is a webpage created by me
